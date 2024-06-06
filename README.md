@@ -1,2 +1,2 @@
-#CodeAlpha Tasks Repo
+**CodeAlpha Tasks Repo**
   - Dev: Mohammed Sameer
